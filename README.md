@@ -2,4 +2,4 @@
 just for learning
 
 
-## project notes
+## project notes :
